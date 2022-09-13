@@ -1,0 +1,60 @@
+- No Wifi (Yet...)
+	ifconfig bwi0 -group wlan
+	ifconfig bwi0 media autoselect mode 11b
+- Ordered Edimax N150 Wifi adapter RTL8188EUS chipset (9/7)
+
+- No Firefox (?)
+	Installed Netsurf for light browsing
+	Lynx for even lighter, text browsing
+
+
+To-do:
+Fvwm config:
+	+Scale down to 1 desktop - DONE
+	+Battery Meter - Physical gauge on bottom for now
+	+Volume Control - Assume Mac buttons work?
+	+Update Menu(s) - Leafpad, Netsurf, weechat, wmweather, calcurse
+
+email of some form:
+	-Mutt - light weight
+	-Claws(?)
+	-Slypheed(?)
+	-Will webmail work on Netsurf?
+
+Libra Chat:
+	-IRC Console Client?
+	-Web Client?
+
+Office Apps:
+	-libreoffice
+	-openoffice
+	-staroffice
+	-?
+
+entertainment:
+	-YouTube Compatibility?
+	-Plex (Ha!)
+	-VLC
+	-mplayer
+	-Streaming (?)
+
+SDF.org
+	-ssh key
+
+
+
+9/1 - Built with OpenBSD 7.1
+
+9/3 - Ethernet connectivity
+
+9/7 - Leafpad for editing
+      Netsurf - Web Browsing
+      Mutt
+
+9/8 - .plan
+      eterm
+      Roxterm
+      weechat
+      wmweather
+      calcurse
+      git (save scripts, configs, etc.)

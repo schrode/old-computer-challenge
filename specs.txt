@@ -1,0 +1,27 @@
+ibook# neofetch
+                                     _    paul@ibook.my.domain 
+                                    (_)   -------------------- 
+              |    .                      OS: OpenBSD 7.1 macppc 
+          .   |L  /|   .          _       Host: Apple Computer, Inc. PowerBook6,5 
+      _ . |\ _| \--+._/| .       (_)      Uptime: 22 hours, 41 mins 
+     / ||\| Y J  )   / |/| ./             Packages: 102 (pkg_info) 
+    J  |)'( |        ` F`.'/        _     Shell: ksh v5.2.14 99/07/13.2 
+  -<|  F         __     .-<        (_)    Terminal: /dev/ttyp2 
+    | /       .-'. `.  /-. L___           CPU: 7447A (Revision 0x101) (1) @ 1.333GHz 
+    J \      <    \  | | O\|.-'  _        Memory: 60MiB / 256MiB 
+  _J \  .-    \/ O | | \  |F    (_)
+ '-F  -<_.     \   .-'  `-' L__                                   
+__J  _   _.     >-'  )._.   |-'                                   
+ `-|.'   /_.          \_|   F
+  /.-   .                _.<
+ /'    /.'             .'  `\
+  /L  /'   |/      _.-'-\
+ /'J       ___.---'\|
+   |\  .--' V  | `. `
+   |/`. `-.     `._)
+      / .-.\
+      \ (  `\
+       `.\
+
+ibook# 
+
